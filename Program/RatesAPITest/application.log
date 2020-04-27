@@ -1,0 +1,8 @@
+2020-04-25 21:30:40,361  INFO [main] responseCheck:34 - {"base":"EUR","rates":{"USD":1.08,"GBP":0.87498},"date":"2020-04-24"}
+2020-04-25 21:30:40,916  INFO [main] responseCheck:38 - base>EUR
+2020-04-25 21:30:40,929  INFO [main] responseCheck:42 - 1.08
+2020-04-25 21:30:40,930  INFO [main] responseCheck:43 - 0.87498
+2020-04-25 21:30:40,940  INFO [main] responseCheck:45 - date>2020-04-24
+2020-04-25 21:30:40,968  INFO [main] responseCheck:53 - 1
+2020-04-25 21:30:40,979  INFO [main] responseCheck:54 - -1
+2020-04-25 21:30:40,980  INFO [main] responseCheck:72 - Response body for base API is correct
